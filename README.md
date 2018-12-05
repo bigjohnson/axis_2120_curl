@@ -19,4 +19,8 @@ And a bonus ffplay view command:
 
 ffplay.exe -f mjpeg -i "http://192.168.2.228/axis-cgi/mjpg/video.cgi?camera=&resolution=704x576"
 
+Default parameter view:
+
+ffplay.exe -f mjpeg -i "http://192.168.2.228/axis-cgi/mjpg/video.cgi"
+
 Obviously change ip, username and password!
