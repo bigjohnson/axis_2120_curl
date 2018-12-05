@@ -15,7 +15,7 @@ curl -X POST -d "do_relay=on&servermanager_do=set_variables" -u "root:password" 
 
 This is really counterintuitive but work, I test it with a multimeter...
 
-And a bonus ffplay view command:
+And some bonus ffplay view command:
 
 ffplay.exe -f mjpeg -i "http://192.168.2.228/axis-cgi/mjpg/video.cgi?camera=&resolution=704x576"
 
