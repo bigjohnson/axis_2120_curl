@@ -13,7 +13,7 @@ Relay open:
 
 curl -X POST -d "do_relay=on&servermanager_do=set_variables" -u "root:password" "http://192.168.2.228/this_server/ServerManager.srv"
 
-This is really counterintuitive but work I test it with a multimeter...
+This is really counterintuitive but work, I test it with a multimeter...
 
 And a bonus ffplay view command:
 
