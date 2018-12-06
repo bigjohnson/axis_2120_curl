@@ -87,7 +87,7 @@ dciris manual shutter auto
 
 ### servermanager_return_page
 
-the return page fron the script
+The return page from the script
 
 ### servermanager_do	set_variables
 
