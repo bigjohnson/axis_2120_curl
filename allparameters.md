@@ -1,28 +1,56 @@
 # All parameters from webpages
 
-## conf_Image_Brightness	8
+## Image - General
 
-## conf_Image_Color	6
+### conf_Image_Brightness
 
-## conf_Image_Compression	min
+0 .. 15
 
-## conf_Image_Resolution	704x576
+## conf_Image_Color
 
-## conf_Image_Text	Text
+0 .. 15
 
-## conf_Image_TimeFormat	24
+## conf_Image_Compression
 
-## conf_Image_UseAxisCamApplet	no
+very_high high medium low min
 
-## conf_Image_UseClock	yes
+## conf_Image_Resolution
 
-## conf_Image_UseDate	yes
+352x288 704x288 704x576
 
-## conf_Image_UseMotion	yes
+## conf_Image_Text
 
-## conf_Image_UseText	yes
+Inset the text max 15 chars
+
+## conf_Image_TimeFormat
+
+12 24 99
+
+99 no time
+
+## conf_Image_UseAxisCamApplet
+
+yes no
+
+## conf_Image_UseClock
+
+yes no
+
+## conf_Image_UseDate
+
+yes no
+
+## conf_Image_UseMotion
+
+yes no
+
+## conf_Image_UseText
+
+yes no
 
 ## conf_Image_WhiteBalance	outdoor
+
+auto_norm auto_narr auto_wide auto_fast indoor_lb indoor_f1 indoor_f2 outdoor
 
 ## conf_Twinkle_EnableTwinkling	NO
 
