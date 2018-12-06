@@ -4,11 +4,11 @@
 
 ### conf_Image_Brightness
 
-0 .. 15
+0 ... 15
 
 ### conf_Image_Color
 
-0 .. 15
+0 ... 15
 
 ### conf_Image_Compression
 
@@ -58,7 +58,7 @@ YES NO
 
 ### conf_Twinkle_TwinklingFreq
 
-0 .. 15
+0 ... 15
 
 ### servermanager_return_page
 
@@ -67,3 +67,28 @@ the return page fron the script
 ### TimeFormat
 
 12 24
+
+## Image - Advanced
+
+### conf_Image_alc
+
+0 ... 3
+
+### conf_Image_Exposure
+
+dciris manual shutter auto
+
+### conf_Image_Gain
+
+10 16 22 28
+
+### conf_Image_Sharpness	166
+
+0 ... 255
+
+### conf_Image_Shutter	50
+
+50 120 250 500 1000 2000 4000 10000
+
+
+
