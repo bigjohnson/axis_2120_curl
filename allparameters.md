@@ -60,14 +60,6 @@ YES NO
 
 0 ... 15
 
-### servermanager_return_page
-
-the return page fron the script
-
-### TimeFormat
-
-12 24
-
 ## Image - Advanced
 
 ### conf_Image_alc
@@ -90,5 +82,13 @@ dciris manual shutter auto
 
 50 120 250 500 1000 2000 4000 10000
 
+## All pages
 
 
+### servermanager_return_page
+
+the return page fron the script
+
+### servermanager_do	set_variables
+
+Set the variables
